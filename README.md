@@ -9,7 +9,7 @@ các yêu cầu chưa hoàn thành :
 - không thể sắp xếp
 - không lưu dữ liệu, sẽ mất khi refersh  hoặc f5 
 
-Vì thời gian có hạn và cú pháp flutter khó học hơn em nghĩ. Nên em chỉ tạo được giao diện cơ bản và còn thiếu sót nhiều chức năng .Rất cảm ơn anh chị đã cho em cơ hội và giành thời gian 
+Vì thời gian có hạn và cú pháp flutter khó học hơn em nghĩ. Nên em chỉ tạo được giao diện cơ bản và còn thiếu sót nhiều chức năng .Rất cảm ơn anh chị đã cho em cơ hội và giành thời gian xem qua 
 
 ## Getting Started
 clone and run trên android studio hoặc visual studio code 
